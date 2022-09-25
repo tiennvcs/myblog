@@ -21,7 +21,7 @@ type: about
 
 ## Miscellaneous
 ---
-- My CV is available at [here](/content/media/pdf/about/CV_TienNguyen.pdf).
+- My CV is available at [here](/tree/main/media/pdf/about/CV_TienNguyen.pdf).
 - In three continous years (2019, 2020, 2021), I got "Student of 5 merits" achievement by the University of Information Technology.
 - In two years (2020,2021), I got "Advanced Young people following Uncle Ho's words" achievement by the University of Information Technology.
 - In Oct 2020, our team achieved the consoltant prine at AI CAMERA INSPECTION CHALLENGE organzied by The Training Center of Saigon Hi-tech Park (SHTP Training), Vietnam.
