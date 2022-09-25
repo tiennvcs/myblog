@@ -1,6 +1,6 @@
-baseURL = "https://tiennvcs.github.io/"
+baseURL = "https://tiennvcs.github.io"
 languageCode = "en-us-vi"
-title = "Tien Nguyen"
+title = "Think like Computer Scientist"
 paginate = 5
 googleAnalytics = ""
 disqusShortname = "hugo-minima"
@@ -10,9 +10,9 @@ theme = "minima"
 # page of your blog.
 [author]
 name = "Tien Nguyen"
-slogon = "Knowing is not enough, we must apply. Willing is not enough, we must do."
-description = "I write this blog aim to sharing my knowledge about Programming, Math, Machine learning under point of view of Computer Science student."
-
+slogon = "THINKING BEFORE DOING, RETHINKING AFTER RESOLVING"
+description = "This blog aim to sharing my knowledge about Programming, Math, Machine learning under point of view of Computer Science student."
+short_bio = "Currently, I am a research engineer at AI research engineer at Viettel High Technology Industries Corporation (VHT). I hold a Bachelor's degree in computer science from Vietnam National University Ho Chi Minh City - Univeristy of Information Technology."
 
 [params]
 # iam is the beginning words of your self-introduction.
@@ -52,7 +52,7 @@ url = "https://github.com/tiennvcs"
 svg = ""
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/tiennvuit"
+url = "https://www.linkedin.com/in/tiennvcs"
 svg = ""
 
 
@@ -63,25 +63,29 @@ name = "🏠Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "🐅DSA"
-url = "/dsa"
+name = "🐅Publication"
+url = "/public"
 weight = 2
 [[menu.main]]
-name = "🐴MA4ML"
-url = "/ma4ml"
+name = "🐴Math"
+url = "/math"
 weight = 3
 [[menu.main]]
-name = "🐄Machine learning"
+name = "🐄ML"
 url = "/ml"
 weight = 4
 [[menu.main]]
-name = "🐇Computer vision"
-url = "/cv"
+name = "🐇Mixed"
+url = "/mixed"
 weight = 5
 [[menu.main]]
-name = "🐉About"
-url = "/about"
+name = "🐇Collection"
+url = "/collection"
 weight = 6
+[[menu.main]]
+name = "🐉About me"
+url = "/about"
+weight = 7
 
 
 [taxonomies]
