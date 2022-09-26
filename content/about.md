@@ -4,9 +4,7 @@ date: 2021-08-30T14:46:42+07:00
 draft: false
 type: about
 ---
-
-
-![My body image](/media/image/about/aboutme.jpg)
+![I'm in Thien Mu Pagoda](/media/image/about/aboutme.jpg)
 
 ## Educations
 ---
