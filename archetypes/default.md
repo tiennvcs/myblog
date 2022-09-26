@@ -1,6 +1,7 @@
 ---
 title: "Title of post"
 date: 
+lastmod: 
 description: Description for post
 toc: true # Table of content
 mermaid: true

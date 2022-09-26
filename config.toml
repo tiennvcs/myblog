@@ -103,3 +103,7 @@ series = "series"
 [markup.highlight]
 lineNos = true
 noClasses = false
+
+enableGitInfo =true
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]

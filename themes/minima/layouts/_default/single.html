@@ -1,21 +1,37 @@
 {{ define "main" }}
 <main>
-	<h1 class="my-6">{{ .Title }}</h1>
-	<div class="mb-3 text-xs">
-		Posted at &mdash; {{ dateFormat .Site.Params.timeformat .Date }}
-		{{ if .Draft }}
-		<span class="ml-1">
+    <h1 class="my-6">{{ .Title }}</h1>
+    <div class="mb-3 text-xs">
+        {{- $pubdate := .PublishDate.Format "02.01.2006" }}
+        Created:
+        <time datetime="{{ .PublishDate }}" title="{{ .PublishDate }}">
+            {{ $pubdate }}
+        </time>
+
+        <!-- Last Updated Date -->
+        {{- if .Lastmod }}
+        {{- $lastmod := .Lastmod.Format "02.01.2006" }}
+        {{- if ne $lastmod $pubdate }}
+        (Updated:
+        <time datetime="{{ .Lastmod }}" title="{{ .Lastmod }}">
+            {{ $lastmod }}
+        </time>
+        )
+        {{- end }}
+        {{- end }}
+        {{ if .Draft }}
+        <span class="ml-1">
 			DRAFT
 		</span>
-		{{ end }}
-	</div>
-	<p>{{ .Description | markdownify | safeHTML }}</p>
-	{{ if .Params.toc }}
-	{{ partial "toc.html" . }}
-	{{ end }}
-	<article class="md">
-		{{ .Content }}
-	</article>
+        {{ end }}
+    </div>
+    <p>{{ .Description | markdownify | safeHTML }}</p>
+    {{ if .Params.toc }}
+    {{ partial "toc.html" . }}
+    {{ end }}
+    <article class="md">
+        {{ .Content }}
+    </article>
 </main>
 {{ if or .Params.math .Site.Params.math }}
 {{ partial "math.html" . }}
