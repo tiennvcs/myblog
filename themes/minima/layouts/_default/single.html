@@ -2,7 +2,7 @@
 <main>
     <h1 class="my-6">{{ .Title }}</h1>
     <div class="mb-3 text-xs">
-        {{- $pubdate := .PublishDate.Format "02.01.2006" }}
+        {{- $pubdate := dateFormat .Site.Params.timeformat .PublishDate }}
         Created:
         <time datetime="{{ .PublishDate }}" title="{{ .PublishDate }}">
             {{ $pubdate }}
@@ -10,7 +10,7 @@
 
         <!-- Last Updated Date -->
         {{- if .Lastmod }}
-        {{- $lastmod := .Lastmod.Format "02.01.2006" }}
+        {{- $lastmod := dateFormat .Site.Params.timeformat .Lastmod }}
         {{- if ne $lastmod $pubdate }}
         (Updated:
         <time datetime="{{ .Lastmod }}" title="{{ .Lastmod }}">

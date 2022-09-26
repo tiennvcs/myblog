@@ -1,9 +1,9 @@
 ---
-title: "Projects"
-date: 2021-08-26T14:57:52+07:00
-lastmod: 2021-08-27T14:57:52+07:00
-description: 
+title: "Project"
+date: 2022-09-26T13:56:15+07:00
+draft: false
 ---
+
 ### 2022
 ---
 - **Evaluate some deep learning methods for infographic visual question answering.** (Bachelor's thesis) \
@@ -22,5 +22,4 @@ description:
     *[code](https://github.com/tiennvcs/ObjectDetection-Capsnet) | [report]()*
 - **Comparing compression algorithm on text data.** \
     *[code](https://github.com/tiennvcs/CompressAlgorithm) | [report]()*
-
 

@@ -63,11 +63,11 @@ name = "🏠Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "🐅Publications"
+name = "🐅Publication"
 url = "/public"
 weight = 2
 [[menu.main]]
-name = "🐅Projects"
+name = "🐅Project"
 url = "/project"
 weight = 3
 [[menu.main]]
@@ -87,7 +87,7 @@ name = "🐇Collection"
 url = "/collection"
 weight = 7
 [[menu.main]]
-name = "🐉About me"
+name = "🐉About"
 url = "/about"
 weight = 8
 

@@ -1,30 +1,13 @@
 ---
-title: "Title of post"
-date: 
-lastmod: 
-description: Description for post
-toc: true # Table of content
-mermaid: true
-math: true
-categories: ["category 1", "category 2"]
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: true
 ---
 
-*Introduction to post ...*
+**Insert Lead paragraph here.**
 
+## New Cool Posts
 
-
-# Heading 1
-
-## Subsection 
-
-### Subsubsection
-
-This is some text
-
-```python
-print("Hello World")
-```
-
-# Heading 2
-
-
+{{ range first 10 ( where .Site.RegularPages "Type" "cool" ) }}
+* {{ .Title }}
+{{ end }}
