@@ -1,6 +1,6 @@
 baseURL = "https://tiennvcs.github.io"
 languageCode = "en-us-vi"
-title = "Think like Computer Scientist"
+title = "CSist"
 paginate = 5
 googleAnalytics = ""
 disqusShortname = "hugo-minima"
