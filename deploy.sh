@@ -5,10 +5,10 @@ hugo
 cd ./public
 git add .
 git commit -m "update"
-git push -f
+git push -f origin main
 
 # Commit in store
 cd ../
 git add .
 git commit -m "update"
-git push -f
+git push -f origin main
