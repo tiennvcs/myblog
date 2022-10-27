@@ -12,7 +12,7 @@ theme = "minima"
 name = "Tien Nguyen"
 slogon = "THINKING BEFORE DOING, RETHINKING AFTER RESOLVING"
 description = "This blog aim to sharing my knowledge about Programming, Math, Machine learning under point of view of Computer Science student."
-short_bio = "Currently, I am a research engineer at AI research engineer at Viettel High Technology Industries Corporation (VHT). I hold a Bachelor's degree in computer science from Vietnam National University Ho Chi Minh City - Univeristy of Information Technology."
+short_bio = "Currently, I am a research engineer at Viettel High Technology Industries Corporation (VHT). I hold a Bachelor's degree in computer science from Vietnam National University Ho Chi Minh City - Univeristy of Information Technology. During the college, I interested in machine learning and computer vision problems range from classification, detection on image and also in natural language processing."
 
 [params]
 # iam is the beginning words of your self-introduction.
