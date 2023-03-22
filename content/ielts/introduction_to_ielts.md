@@ -4,7 +4,7 @@ date: 2023-03-22T12:58:18+07:00
 draft: false
 ---
 
-*When I started to apply to a graduate program, I got stuck with the English certificate requirement. Currently, I _am studying for IELTS and being prepared for the upcoming exam so I think one of the best ways to learn is by sharing. So in this sector, I write anything I learned. Of course, I_ hope it will be good material for you if you are the one also concerned about IELTS.*
+*When I started to apply to a graduate program, I got stuck with the English certificate requirement. Currently, I am studying for IELTS and being prepared for the upcoming exam so I think one of the best ways to learn is by sharing. So in this sector, I write anything I learned. Of course, I hope it will be good material for you if you are the one also concerned about IELTS.*
 
 ## What is IELTS?
 ---
@@ -17,7 +17,7 @@ Source: [https://www.ielts.org/about-ielts/what-is-ielts](https://www.ielts.org/
 ---
 IELTS is graded on a scale of 1-9. It means with every single skill, you will be received a score in the range of 1-9 and the average score of 4 skills is the final score (IELTS score) you would be assessed.
 
-A band score you took from the IELTS exam shows your English capacity. If you got 9 in general, Wonderful, you are a genius! But if you are a newbie in learning English, you easily got lesser than equal to 5. For me, my aim is **6.5** in general. This band score is in the middle of **6**, the test taker has an effective command of the language despite some inaccuracies, inappropriate usage and misunderstandings and **7, you have operational command of the language, though with occasional inaccuracies, inappropriate usage and misunderstandings in some situations, generally handle complex language well and understand detailed reasoning.
+A band score you took from the IELTS exam shows your English capacity. If you got 9 in general, Wonderful, you are a genius! But if you are a newbie in learning English, you easily got lesser than equal to 5. For me, my aim is **6.5** in general. This band score is in the middle of **6**, the test taker has an effective command of the language despite some inaccuracies, inappropriate usage and misunderstandings and **7**, you have operational command of the language, though with occasional inaccuracies, inappropriate usage and misunderstandings in some situations, generally handle complex language well and understand detailed reasoning.
 
 ## IELTS Listening test
 ---
@@ -25,7 +25,7 @@ You will hear 4 different recordings with 40 questions in total and the recordin
 
 ## IELTS Reading test
 ---
-In the reading section, you are given 3 separate passages and corresponding questions and your task is to write the answer that you suppose is correct to your answer sheet. There are totally 40 questions with a wide variety of types such as TRUE/FALSE/NOT GIVEN, Matching Headings, Filling diagram, etc.
+In the reading section, you are given 3 separate passages and corresponding questions and your task is to write the answer that you suppose is correct to your answer sheet. There are totally 40 questions with a wide variety of types such as TRUE/FALSE/NOT GIVEN, matching headings, filling diagram, etc.
 
 ## IELTS Writing test
 ---
@@ -33,7 +33,7 @@ There are two tasks in writing including Writing Task I and Writing Task II. In 
 
 ## IELTS Speaking test
 ---
-You will speak with an examiner in 11 to 14 minutes. The test contains 3 parts and you should speak naturally and natively as much as possible. The first part (Part I) is the start-up so the examiner  just asks you some questions about yourself such as *Tell me about your hometown?*, *Do you work or study?*, *What is the most interesting thing in _your hometown_?*. And then, you will move to part II where you will be given a cue card including a topic and some suggestions and you must talk about it in no longer than 2 minutes. For example, *Describe a game or sport you enjoy playing*. And in the final part (Part 3), you and the examiner will discuss more deeply the topic given in Part II. Of course, you answer the questions of the examiner.
+You will speak with an examiner in 11 to 14 minutes. The test contains 3 parts and you should speak naturally and natively as much as possible. The first part (Part I) is the start-up so the examiner  just asks you some questions about yourself such as *Tell me about your hometown?*, *Do you work or study?*, *What is the most interesting thing in your hometown?*. And then, you will move to part II where you will be given a cue card including a topic and some suggestions and you must talk about it in no longer than 2 minutes. For example, *Describe a game or sport you enjoy playing*. And in the final part (Part 3), you and the examiner will discuss more deeply the topic given in Part II. Of course, you answer the questions of the examiner.
 
 
 -----
