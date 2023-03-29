@@ -4,7 +4,7 @@ title = "CSist"
 paginate = 5
 googleAnalytics = ""
 disqusShortname = "hugo-minima"
-theme = "minima_v2"
+theme = "minima"
 
 # Author has some of your information to be shown on the home 
 # page of your blog.
