@@ -1,6 +1,6 @@
 ---
 title: "Writing Task II: Agree/disagree 🥵"
-date: 2023-03-23T16:40:50+07:00
+date: 2023-03-29T16:40:50+07:00
 draft: false    
 ---
 
@@ -40,38 +40,65 @@ So, my answer has totally 5 paragraphs: Introduction $\rightarrow$ 1st agree par
 ---
 Based on the outline, I have to think of "idea", "why" and "result" for each paragraph in the body paragraph. Supposedly, I agree with the question, so I will immediately write the introduction.
 
-*One of the most controversial issues today relates to the approval of paying full tuition for students of governments. Personally, I strongly agree with this statement.*
+>One of the most controversial issues today relates to the approval of paying full tuition for students of governments. Personally, I strongly agree with this statement.
 
 Next, I will write the first paragraph supporting the issue. I must think about the 1st idea, 1st why, and 1st result. But the problem is we must write a complete sentence/phrase. It has to satisfy grammar and formality. So this is my 1st idea phrase: "the relief of burden". And in the why section, I write "The main reason for believing this is **there are many students originating from families of underprivileged background. Their daily living teeters on the mediocre income of their parents whose manual jobs can hardly ever afford education of high level.**" And final sentence in this paragraph will point out some potential results of 1st idea. Here is my result sentence: "This can result in the fact that **the governmental support plays a vital role in sustaining the pursuit of academic knowledge among people**". So here is the first paragraph in the body.
 
-*One of the strongest arguments in favor of the financial coverage from governments for the tertiary education of students can be attributed to the relief of burden. The main reason for believing this is many students are originating from families of underprivileged backgrounds. Their daily living teeters on the mediocre income of their parents whose manual jobs can hardly ever afford an education of a high level. This can result in the fact that governmental support plays a vital role in sustaining the pursuit of academic knowledge among students.*
+>One of the strongest arguments in favor of the financial coverage from governments for the tertiary education of students can be attributed to the relief of burden. The main reason for believing this is many students are originating from families of underprivileged backgrounds. Their daily living teeters on the mediocre income of their parents whose manual jobs can hardly ever afford an education of a high level. This can result in the fact that governmental support plays a vital role in sustaining the pursuit of academic knowledge among students.*
 
 Similarly, I write the second body paragraph with the above structure: idea $\rightarrow$  why $\rightarrow$ result. Here is my second paragraph.
 
-*A further point that needs to be considered is the testament to social stability and steady economy. Governments whose budgets can considerably cover the fees of all national students boast admirable capacity in social management and financial regulation. Even more so, the societies of ubiquitous grants for students can showcase the consensus among citizens who take a high interest in academic education. As a consequence, the bright perspective for the whole community should be ensured.*
+>A further point that needs to be considered is the testament to social stability and steady economy. Governments whose budgets can considerably cover the fees of all national students boast admirable capacity in social management and financial regulation. Even more so, the societies of ubiquitous grants for students can showcase the consensus among citizens who take a high interest in academic education. As a consequence, the bright perspective of the whole community should be ensured.*
 
 And in the final body paragraph, I will protest against the statement. Here is it.
 
-*There are, however, some arguments that oppose the financial coverage from governments for university fees. The most typical of these is the tendency of reliance among some certain parents. They naturally expect the state-sponsored allowances without being properly prepared for exploitation in which the fraudulent number of university-age children can be provided for bigger sponsors. As a consequence, the national budget can suffer from the unjustifiable deficit.*
+>There are, however, some arguments that oppose the financial coverage from governments for university fees. The most typical of these is the tendency of reliance among certain parents. They naturally expect the state-sponsored allowances without being properly prepared for exploitation in which the fraudulent number of university-age children can be provided for bigger sponsors. As a consequence, the national budget can suffer from the unjustifiable deficit.
 
 And in conclusion, I rewrite the issue in the question and give pieces of advice to end the essay. Here is my conclusion.
 
-*In conclusion, I tend to believe that this is a good trend. The government should properly galvanize students who pursuing their academic careers, especially outstanding students whose starting point is inferior to others. Besides, propaganda campaigns that educating young people about the bright prospect of employment resulting from higher education should be thoroughly enhanced.*
+>In conclusion, I tend to believe that this is a good trend. The government should properly galvanize students who pursuing their academic careers, especially outstanding students whose starting point is inferior to others. Besides, propaganda campaigns educating young people about the bright prospect of employment resulting from higher education should be thoroughly enhanced.*
 
 
 ## Completing essay
 
 > One of the most controversial issues today relates to the approval of paying full tuition for students of governments. Personally, I strongly agree with this statement.
 
-> One of the strongest arguments in favor of the financial coverage from governments for the tertiary education of students can be attributed to the relief of burden. The main reason for believing this is many students are originating from families of underprivileged backgrounds. Their daily living teeters on the mediocre income of their parents whose manual jobs can hardly ever afford an education of a high level. This can result in the fact that governmental support plays a vital role in sustaining the pursuit of academic knowledge among students.
->
-> A further point that needs to be considered is the testament to social stability and steady economy. Governments whose budgets can considerably cover the fees of all national students boast admirable capacity in social management and financial regulation. Even more so, the societies of ubiquitous grants for students can showcase the consensus among citizens who take a high interest in academic education. As a consequence, the bright perspective for the whole community should be ensured.
->
-> There are, however, some arguments that oppose the financial coverage from governments for university fees. The most typical of these is the tendency of reliance among some certain parents. They naturally expect the state-sponsored allowances without being properly prepared for exploitation in which the fraudulent number of university-age children can be provided for bigger sponsors. As a consequence, the national budget can suffer from the unjustifiable deficit.
+> One of the strongest arguments in favor of government financial coverage for the tertiary education of students can be attributed to the relief of burden. The main reason for believing this is many students are originating from families of underprivileged backgrounds. Their daily living teeters on the mediocre income of their parents whose manual jobs can hardly ever afford an education of a high level. This can result in the fact that governmental support plays a vital role in sustaining the pursuit of academic knowledge among students.
 
-> In conclusion, I tend to believe that this is a good trend. The government should properly galvanize students who pursuing their academic careers, especially outstanding students whose starting point is inferior to others. Besides, propaganda campaigns that educating young people about the bright prospect of employment resulting from higher education should be thoroughly enhanced.
+> A further point that needs to be considered is the testament to social stability and a steady economy. Governments whose budgets can considerably cover the fees of all national students boast admirable capacity in social management and financial regulation. Even more so, the societies of ubiquitous grants for students can showcase the consensus among citizens who take a high interest in academic education. As a consequence, the bright perspective of the whole community should be ensured.
+
+> There are, however, some arguments that oppose the financial coverage from governments for university fees. The most typical of these is the tendency of reliance among certain parents. They naturally expect the state-sponsored allowances without being properly prepared for exploitation in which the fraudulent number of university-age children can be provided for more prominent sponsors. As a consequence, the national budget can suffer from an unjustifiable deficit.
+
+> In conclusion, I tend to believe that this is a good trend. The government should properly galvanize students who pursuing their academic careers, especially outstanding students whose starting point is inferior to others. Besides, propaganda campaigns that educate young people about the bright prospect of employment resulting from higher education should be thoroughly enhanced.
 
 
-**In summary, with this structure, we must give the opinion that we agree or disagree with it and think of 3 ideas, why, and result determined by your opinion. Write it in complete sentences and use formal vocabulary as much as possible. Of course, grammar correction should be ensured.*
+In summary, with this structure, we must give the opinion that we agree or disagree with it and think of 3 ideas, why, and result determined by your opinion. Write it in complete sentences and use formal vocabulary as much as possible. Of course, grammar correction should be ensured.*
+
+**Vocabulary**
+1. tertiary education (phrasal noun)
+2. relief of burden (phrasal noun)
+3. originate (from)
+4. manual jobs (phrasal noun)
+5. play(s) a vital role (in)
+6. underprivileged background (phrasal noun)
+7. pursuit of = acquisition of (n)
+8. testament (to) = testimony (to)
+9. regulation (noun)
+10. social stability $\neq$ social unrest
+11. bright perspectives = bright prospects 
+12. sustain (v)
+13. consensus (among)
+14. state-sponsored allowances = state-run allowances 
+15. not to mention (adv)
+16. fraudulent (n)
+17. exploitation (n)
+18. unjustifiable (adj)
+19. deficit (n)
+20. tendency (of)
+21. mediocre income (phrasal noun)
+22. teeter (on) -> teeter on the brink of (N)
+23. boast (v)
+24. university-age (adj)
+25. suffer (from)
 
 In the next post, I continually write about this type of question.
