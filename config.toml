@@ -5,6 +5,7 @@ paginate = 5
 googleAnalytics = ""
 disqusShortname = "hugo-minima"
 theme = "minima"
+math = true
 
 # Author has some of your information to be shown on the home 
 # page of your blog.
@@ -28,6 +29,7 @@ timeformat = "Jan 2, 2006"
 # switch for turning on/off lights.
 switch = ["🌚", "🌝"]
 
+math = "katex"
 
 # OvO is a comment plugin written by the author of Minima. 
 # It is enabled when params.comment is set "ovo". You can
