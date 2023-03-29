@@ -4,3 +4,6 @@
 [submodule "code"]
 	path = code
 	url = https://github.com/tiennvcs/myblog_code
+[submodule "themes/minima_v2"]
+	path = themes/minima_v2
+	url = https://github.com/mivinci/hugo-theme-minima.git
