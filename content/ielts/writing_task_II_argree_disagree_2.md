@@ -31,4 +31,38 @@ draft: false
 >
 > **There are, however, some arguments that support** the increase in age of driving. **The most typical of these is** the less impulse found among individuals who are of more mature age. They should grow out of puerile reactions towards unexpected incidents or they undoubtedly display more composure in dealing with verbal abuse or road rage compared to their younger counterparts. **Therefore**, people can enjoy more sense of security as they share the lanes with drivers of maturity. 
 >
-> **In conclusion, I tend to suppose that this is a good belief. The government should** remind the citizens of their responsibility for driving and strictly impose age-related regulations on the whole community, especially for the immature who are inclined to rebellion through their vehicles, should have been thoroughly educated about codes of behavior.
+> **In conclusion, I tend to suppose that this is a bad belief. The government should** remind the citizens of their responsibility for driving and strictly impose age-related regulations on the whole community, especially for the immature who are inclined to rebellion through their vehicles, should have been thoroughly educated about codes of behavior.
+
+
+**Vocabulary**
+1. irrespective (of)
+2. be obliged (to)
+3. comply (with)
+4. regulations
+5. awareness (of) = sense (of) 
+6. stem (from) = originate (from) 
+7. advanced ages 
+8. alternatives
+9. transport infrastructure = transport facility
+10. derelict (adj)
+11. pose (v)
+12. startingly (adv)
+13. fatal = deadly
+14. macabre
+15. pipe-ups
+16. head-on crashes
+17. imminent (to)
+18. pothole-riddled roads 
+19. prioritized (p.p)
+20. impulse (n)
+21. grow out of (phrasal verb)
+22. puerile (adj) = childish
+23. undoubtedly = evidently = certainly
+24. verbal abuse (n)
+25. composure (n)
+26. younger counterparts
+27. remind (sb) of (st)
+28. impose (v)
+29. be inclined (to)
+30. rebellion
+
