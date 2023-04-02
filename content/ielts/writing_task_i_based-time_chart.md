@@ -107,6 +107,6 @@ As you can see, writing the introductory and overview section is not hard and ou
 
 > To be more specific, the UK carbon dioxide consistently decreased from 11 tonnes, which accounted for the highest proportion, to 9 tonnes between 1967 and 2007. Similarly, there was a slight drop in average CO2 emissions in Sweden from 9 tonnes in 1967 to 10 tonnes in 1977. Afterward, it benefited from a remarkable fall from 10 tonnes to 5 tonnes between 1977 and 2007. 
 >
-> By contrast, the average CO2 exhaust fumes in Italy suffered from a considerable rise from approximately 4 tones to 8 tones between 1967 and 1997. And then, it stayed unchanged until 2007. Likewise, the statistics on average CO2 generated in Portugal revealed a remarkable increase from 1, which accounted for the lowest proportion, to 5 tones between 1967 and 1997. Finally, it witnessed an extremely minimal increase of around 5 tonnes in the 1997-2007 period.
+> By contrast, the average CO2 exhaust fumes in Italy suffered from a considerable rise from approximately 4 tones to 8 tones between 1967 and 1997. And then, it stayed unchanged until 2007. Likewise, the statistics on average CO2 generated in Portugal revealed a remarkable increase from 1, which accounted for the lowest proportion, to 5 tones between 1967 and 1997. Finally, it witnessed an extremely minimal increase in the 1997-2007 period.
 
 
