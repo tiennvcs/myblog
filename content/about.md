@@ -22,17 +22,19 @@ Trien Thai, **T. Nguyen**, Tuan Nguyen. 2022. Phương pháp xác định vị t
 ## Experiences
 ---
 - AI research engineer at Viettel High Technology Industries Corporation (VHT), Vietnam (3/2022-current).
-- Teacher assistant in at University of Information Technology(VNUHCM-UIT) (11/2021-3/2022).
-- Research practitioner at  University of Information Technology(VNUHCM-UIT) (2019-2022).
+Teacher assistant at the University of Information Technology(VNUHCM-UIT) (11/2021-3/2022).
+- Research practitioner at the University of Information Technology(VNUHCM-UIT) (2019-2022).
 
 ## Miscellaneous
 ---
-- My CV is available at [here](https://drive.google.com/file/d/1CIcbKXDLXi1RSlDfJBkwDfaoKOMmFK6t/view?usp=share_link).
-- In three continous years (2019, 2020, 2021), I got "Student of 5 merits" achievement by the University of Information Technology.
-- In two years (2020,2021), I got "Advanced Young people following Uncle Ho's words" achievement by the University of Information Technology.
-- In Oct 2020, our team achieved the consoltant prine at AI CAMERA INSPECTION CHALLENGE organzied by The Training Center of Saigon Hi-tech Park (SHTP Training), Vietnam.
-- In 2019 at the first year of undegraduate, I achieved the consoltant prize in Calculus group at the National Mathematical Olympiad Competition organized by the Vietnam Mathematical Association.
+- My CV is available [here](https://drive.google.com/file/d/1CIcbKXDLXi1RSlDfJBkwDfaoKOMmFK6t/view?usp=share_link).
+- In three continuous years (2019, 2020, 2021), I got a "Student of 5 merits" achievement from the University of Information Technology.
+- In two years (2020,2021), I got the "Advanced Young people following Uncle Ho's words" achievement from the University of Information Technology.
+- In Oct 2020, our team achieved the consolation prize at the AI CAMERA INSPECTION CHALLENGE organized by The Training Center of Saigon Hi-tech Park (SHTP Training), Vietnam.
+- In 2019, in my first year of undergraduate, I achieved the consolation prize in the Calculus group at the National Mathematical Olympiad Competition organized by the Vietnam Mathematical Association.
 
 
-
+## Photos
+---
 ![I'm in Thien Mu Pagoda](/media/image/about/aboutme.jpg)
+![A picture of me in the graduate ceremony](/media/image/about/aboutme2.JPG)
