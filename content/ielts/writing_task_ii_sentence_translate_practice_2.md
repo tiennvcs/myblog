@@ -4,7 +4,7 @@ date: 2023-04-01T23:51:50+07:00
 draft: false
 ---
 
-**Let's practice these questions for more better in writing task II.**
+**Let's practice these questions for better writing task II.**
 
 ## Questions
 ---

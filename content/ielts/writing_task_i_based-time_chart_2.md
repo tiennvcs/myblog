@@ -18,7 +18,7 @@ draft: false
 
 ![Average carbon dioxide (CO2) emissions per person, 1967-2007](/media/image/ielts/writing_task_i/graph-142-average-monthly-temperatures-and-hours-of-sunshine.png)
 
-As you can see the given chart is a time-based figure and we can effortlessly tackle it, but the question also enquires us to summarize the information in the table. This type of figure is called non-time-based time and we can use some structures below to describe it.
+As you can see, the given chart is a time-based figure and we can effortlessly tackle it, but the question also enquires us to summarize the information in the table. This type of figure is called non-time-based time and we can use some structures below to describe it.
 
 1. To be more specific, name of the highest bars + verb + data, which stood at the peak.
 2. Next, name of the second highest bars + ranked the second + **with** + data.
