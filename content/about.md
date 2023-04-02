@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Tien Nguyen"
 date: 2022-09-26T14:00:05+07:00
 draft: false
 ---
@@ -21,7 +21,7 @@ Trien Thai, **T. Nguyen**, Tuan Nguyen. 2022. Phương pháp xác định vị t
 
 ## Experiences
 ---
-- AI research engineer at Viettel High Technology Industries Corporation (VHT), Vietnam (3/2022-current).
+- AI research engineer at Viettel High Technology Industries Corporation (VHT), Vietnam (3/2022-3/2023).
 Teacher assistant at the University of Information Technology(VNUHCM-UIT) (11/2021-3/2022).
 - Research practitioner at the University of Information Technology(VNUHCM-UIT) (2019-2022).
 

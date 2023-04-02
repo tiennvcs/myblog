@@ -16,7 +16,7 @@ draft: false
     *[code](https://github.com/tiennvcs/instance_search)     | [report]()*
 ### 2020
 ---
-- **Detect failing bottle caps from stream camera video in industry.** \
+- **Detect failing bottle caps from industrial camera stream.** \
     *[code](https://github.com/tiennvcs/SHTP_AI_cameraChallenge) | [report]()*
 - **Object detection implementation using Yolo and Capsule Network.**\
     *[code](https://github.com/tiennvcs/ObjectDetection-Capsnet) | [report]()*
