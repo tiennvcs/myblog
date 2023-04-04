@@ -1,5 +1,5 @@
 ---
-title: "Writing task I - Time-based chart and non-time-based figures "
+title: "Writing task I - Time-based chart and non-time-based figures"
 date: 2023-04-02T16:31:30+07:00
 draft: false
 ---
