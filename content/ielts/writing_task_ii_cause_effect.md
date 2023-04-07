@@ -38,4 +38,64 @@ The answer will be an essay containing 3 sections:
 ## Complete essay
 ---
 
+> **One of the most notable issues today relates to** domestic abuse, which are increasing. **This essay will endeavor to point out the causes and effects relating to such concerns.**
+
+> **To begin with**, domestic violence **can be attributed to** the financial impasse. **The main reason for believing this is** the spouses cannot stay calm as they are in bad need of money which cripples their ability to purchase their necessities and they are inclined to use violence, even on their partners, as a means of stress release. Additionally, domestic violence can be ascribed to the inherent aggressiveness among people. **It can be traced back to the fact that** some individuals, mostly males, seek joy in inflicting physical injuries on the others who are supposedly inferior to them. 
+>
+> **Mentioning the effects**, domestic violence **can cause** tragedy for children. **As a consequence**, they can easily become cold-blooded criminals in the future because they are coerced into witnessing the violence between their parents which deprives them of naivety and sense of emotion. Furthermore, domestic violence can trigger social unrest. **Therefore**, the prospect of the whole country should be bleak because the supposed cells of society have been irreversibly damaged.
+
+> **In conclusion**, domestic violence **displays a range of causes and effects**. **Personally**, I suppose that married couples should share difficulties they are dealing with in order to gain a deeper-comprehension into their scarce relationships beacause it will be their most reliable mental support for their old-age. Furthermore, the authority should imprison those who inflict violence on their partners since this is an inhumane crime.
+
 **Vocabulary**
+1. domestic abuse (n) = domestic violence (n)
+2. financial impasse (n)
+3. spouse (n)
+4. be **in bad need of** s.t
+5. cripple (v)
+6. necessities (plural noun)
+7. be inclined to + $V_{ing}$/N
+8. as a means of + s.t
+9. inherent (adj)
+10. aggressiveness (n)
+11. **be** (supposedly) **inferior to** s.b
+12. tragedy (upon) (noun) $\rightarrow$ tragic (adj)
+13. cold-blooded criminals (plural noun)
+14. be coerced (into) + $V_{ing}$  
+15. **deprive** s.b **of** s.t
+16. naivety (noun)
+17. sense of emotion (noun)
+18. social unrest (noun)
+19. prospect ~ perspective (noun)
+20. bleak (adj)
+21. irreversibly (adv)
+22. married couples (plural noun)
+
+
+## Additional exercises
+*Let's translate these Vietnamese sentences below into English*
+
+1. Những cặp vợ chồng luôn trong tình trạng bạo lực vì họ không biết trân trọng những giá trị tình cảm mà đáng lẽ họ được hưởng.
+```
+
+
+```
+2. Những ông chồng thô lỗ hành hạ vợ dã man vì họ cảm thấy thích thú khi gây tổn thương lên những người ốm yếu hơn họ mà không thể chống cự lại được.
+```
+
+
+```
+3. Chính quyền nên bỏ tù những kẻ gây thương tổn cho bạn đời của mình bởi vì đó là một tội ác vô nhân đạo.
+```
+
+
+```
+4. Những cặp vợ chồng nên hiểu và trân trọng mối quan hệ thiêng liêng của họ bởi vì khi họ lớn tuổi, nó sẽ là chỗ dựa lớn nhất của họ.
+```
+
+
+```
+5. Trẻ em là nạn nhân dễ dàng nhất của bạo hành gia đình bởi vì chúng rất dễ bị tổn thương về thể xác và tinh thần.
+```
+
+
+```
