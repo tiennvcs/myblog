@@ -8,6 +8,8 @@ draft: false
 
 ***Summarize the information by selecting and reporting the main features, and make comparisons where relevant.***
 
+![The number of tourists visiting a particular Caribbean island between 2010 and 2017](/media/image/ielts/writing_task_i/writing-task-1-answer-cam-15-test-1.png)
+
 ## Complete answer
 ---
 > The graph illustrates the number of tourists travelling a specific Caribbean island in million unit between 2010 and 2017.
