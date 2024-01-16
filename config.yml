@@ -71,8 +71,8 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi, my name is Tien Nguyen. I am student researching on machine learning."
-        Content: Welcome to my space. This blog aims to record my knowledge during studying progress.
+        Title: "Howdy, I am Tien, a student working on machine learning. Welcome to my space."
+        Content: Welcome to my space.
 
     socialIcons:
         # - name: twitter
@@ -81,6 +81,8 @@ params:
           url: "https://www.linkedin.com/in/tiennvcs"
         - name: github
           url: "https://github.com/tiennvcs"
+        - name: gmail
+          url: "tiennvcs@gmail.com"
 
     analytics:
         google:
@@ -112,6 +114,10 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
+        - identifier: ma4ml
+          name: MA4ML🎶
+          url: /ma4ml/
+          weight: 1
         - identifier: machinelearning
           name: Machine Learning🎃
           url: /ml/
