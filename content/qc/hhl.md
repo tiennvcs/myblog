@@ -51,7 +51,7 @@ $$. In this cae, \\(A = \begin{bmatrix}
 \end{bmatrix}\\) and \\(\begin{bmatrix}-1 \\\\ 10\end{bmatrix}\\).
 
 
-## In-school teached algorithms
+## In-school teach algorithms
 The most common way to solve the system of linear equation we usually know is the substitution. For example to solve the problem above, from the first equation, we have \\(y = -1 - x\\), then we plug it into the second euqation:
 $$
     3x + 10(-1 - x) = 10 \\\\
